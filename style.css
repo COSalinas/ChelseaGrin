@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+  .font {  
+      color: red;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 15px;
+  }
+
+  h2 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: red;
+  }
+
+  h3 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: red;
+      font-size: 22px;
+ }
+
+ .songs {
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: red;
+ }
+
+ h4 {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: red;
+     font-size: 22px;
+
+ }
+ .band {
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: red;
+ }
+
+ h5 {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: red;
+     font-size: 22px;
+ }
