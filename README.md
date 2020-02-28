@@ -1,2 +1,0 @@
-# ChelseaGrin
-fan page project 
